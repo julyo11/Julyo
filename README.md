@@ -8,4 +8,6 @@ Get in touch with me 👉 https://linktr.ee/julyo11
 
 Thank you and have a nice day ❤️
 
-(https://github-readme-stats.vercel.app/api?username=julyo11&show_icons=true&theme=tokyonight&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julyo11&show_icons=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
