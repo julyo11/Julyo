@@ -9,7 +9,8 @@ Get in touch with me 👉 <a href="https://linktr.ee/julyo11" target="_blank">li
 
 Thank you and have a nice day ❤️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julyo11&show_icons=true&theme=tokyonight&show_icons=true) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julyo11&show_icons=true&theme=tokyonight&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julyo11&theme=tokyonight&show&layout=compact)
 
 
