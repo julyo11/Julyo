@@ -1,6 +1,4 @@
-# Julyo
-
-Hello Everyone 👋 <br>
+# Hello Everyone 👋 <br>
 
 I'm Julyo Computer Science student @ Binus University. Actually, I don't really like to code but I have to do it because it's my responsibilities as Computer Science Student 🥲. I use Github for documenting and save my past projects. I'm passionate about Product Design and like to create a nice User Interface Design for websites and mobile. Although I don't like coding, I like to exploring Web Design using HTML, CSS, & JavaScript.
 
